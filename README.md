@@ -48,7 +48,6 @@ To use the Dictionary Command Line Tool, follow these steps:
     Definition: <Definition>
     ```
 
-3. If there are multiple definitions for the word, only the top definition will be displayed.
 
 ## Dependencies
 
