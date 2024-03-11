@@ -62,3 +62,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 - [DictionaryAPI](https://dictionaryapi.dev/) for providing the dictionary data API.
+
+- 
+
+
+https://github.com/jhill1971/dictionary/assets/60713038/815b96c6-be62-489c-a1ef-dcc901a57625
+
